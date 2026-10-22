@@ -11,4 +11,4 @@ Ask questions of your own documents and get answers with sources, running entire
 - Code: coming soon
 - Benchmarks: coming soon
 
-[View the repository on GitHub](https://shankar-rao.github.io/airgap-rag/what-is-rag/)
+[View the repository on GitHub](https://shankar-rao.github.io/airgap-rag)
